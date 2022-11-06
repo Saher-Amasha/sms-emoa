@@ -1,8 +1,6 @@
 # sms-emoa
 
-SMS-EMOA: Multiobjective selection based on dominated hypervolume
-
-my implementation of the SMS-EMOA algorithm described in https://www.researchgate.net/publication/222030993_SMS-EMOA_Multiobjective_selection_based_on_dominated_hypervolume
+my implementation of the SMS-EMOA algorithm described in https://www.researchgate.net/publication/222030993_SMS-EMOA_Multiobjective_selection_based_on_dominated_hypervolume for two objectives
 
 TY  - JOUR
 AU  - Hochstrate, Nicola
